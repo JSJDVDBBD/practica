@@ -1,0 +1,6 @@
+projectKey=padih-ah-u
+serverUrl=http://localhost:9000
+serverVersion=25.2.0.102705
+dashboardUrl=http://localhost:9000/dashboard?id=padih-ah-u
+ceTaskId=4df009ef-8824-4ebf-ad5c-77330846b159
+ceTaskUrl=http://localhost:9000/api/ce/task?id=4df009ef-8824-4ebf-ad5c-77330846b159
